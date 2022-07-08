@@ -1,5 +1,4 @@
 ### Hi there im Denhamrock 👋
-test
 
 - 🔭 I’m currently working on ...\
 A Elegant Minecraft launcher. Hopefully in the not too far future.
